@@ -6,7 +6,6 @@ tic tac toe game
 ## :page_facing_up: About
 
 ## :pencil2: Planning & Problem Solving
-# Project plan
 
 1. create HTML, CSS & JS files
 2. start with basic html & css to create the 9x boxes with individual classes
